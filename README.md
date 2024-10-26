@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Diego Campuzano 👋
 
-<!--
-**hermani456/hermani456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A web developer with a passion for creating intuitive, user-friendly interfaces and developing reliable, full-stack applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Front-end:** HTML, CSS, JavaScript, React, Nextjs, Tailwind CSS, shadcn/ui
+- **Back-end:** Node.js, PostgreSQL
+- **Other:** Git, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- TypeScript
+- Expo
+- React Native
+
+## 💻 Projects
+- [LiquidApp](link-to-your-project-1): An app that automatically generates PDF pay stubs and sends them to employees' email addresses.
+
+
+## 📫 Connect with Me
+- [Portfolio](https://www.diegocampuzano.me)
+- [iCodeThis](https://icodethis.com/hermani)
+- [LinkedIn](https://www.linkedin.com/in/diegocampuzano/)
+
+
+Feel free to reach out or collaborate on exciting projects! 😊
