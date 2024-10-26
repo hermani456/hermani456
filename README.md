@@ -13,7 +13,8 @@ A web developer with a passion for creating intuitive, user-friendly interfaces 
 - React Native
 
 ## 💻 Projects
-- [LiquidApp](link-to-your-project-1): An app that automatically generates PDF pay stubs and sends them to employees' email addresses.
+- [Wedding RSVP](https://github.com/hermani456/wedding): An app that allows guests to respond to wedding invitations and receive a confirmation email along with a PDF invitation upon RSVP.
+- [LiquidApp](): An app that automatically generates PDF pay stubs and sends them to employees' email addresses.
 
 
 ## 📫 Connect with Me
