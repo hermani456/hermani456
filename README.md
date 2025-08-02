@@ -8,7 +8,6 @@ A web developer with a passion for creating intuitive, user-friendly interfaces 
 - **Other:** Git, Python
 
 ## 🌱 Currently Learning
-- TypeScript
 - Expo
 - React Native
 
@@ -18,7 +17,7 @@ A web developer with a passion for creating intuitive, user-friendly interfaces 
 
 
 ## 📫 Connect with Me
-- [Portfolio](https://www.diegocampuzano.me)
+- [Portfolio](https://www.diegocampuzano.dev)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/hermani456)
 - [iCodeThis](https://icodethis.com/hermani)
 - [LinkedIn](https://www.linkedin.com/in/diegocampuzano/)
