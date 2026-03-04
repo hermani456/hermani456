@@ -1,26 +1,28 @@
-# Hi there, I'm Diego Campuzano 👋
+# Diego Campuzano
+**Full-Stack Web Developer**
 
-A web developer with a passion for creating intuitive, user-friendly interfaces and developing reliable, full-stack applications.
+I specialize in creating intuitive, user-friendly interfaces and developing reliable, full-stack applications. I focus on writing clean code and building practical solutions that streamline complex tasks.
 
-## 🚀 Skills
-- **Front-end:** HTML, CSS, JavaScript, React, Nextjs, Tailwind CSS, shadcn/ui
-- **Back-end:** Node.js, PostgreSQL
-- **Other:** Git, Python
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, shadcn/ui
+- **Backend & Data:** Node.js, PostgreSQL, Go, Python, R
+- **DevOps & Tools:** Git, Docker, Linux, n8n
 
-## 🌱 Currently Learning
+## Currently Expanding My Stack
 - Expo
 - React Native
 
-## 💻 Projects
-- [Wedding RSVP](https://github.com/hermani456/wedding): An app that allows guests to respond to wedding invitations and receive a confirmation email along with a PDF invitation upon RSVP.
-- [LiquidApp](): An app that automatically generates PDF pay stubs and sends them to employees' email addresses.
+## Featured Projects
+- **[FamilyTask](https://github.com/hermani456/family-task)**
+  A task management application designed to streamline household organization, track chores, and coordinate daily responsibilities efficiently.
 
+- **[LiquidApp]()**
+  An automated payroll documentation utility. The application handles the automatic generation of PDF pay stubs and securely routes them to the respective employees' email addresses.
 
-## 📫 Connect with Me
-- [Portfolio](https://www.diegocampuzano.dev)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/hermani456)
-- [iCodeThis](https://icodethis.com/hermani)
-- [LinkedIn](https://www.linkedin.com/in/diegocampuzano/)
+## Let's Connect
+I am always open to discussing new opportunities, collaborating on full-stack projects, or just talking tech. 
 
-
-Feel free to reach out or collaborate on exciting projects! 😊
+- **Portfolio:** [diegocampuzano.dev](https://www.diegocampuzano.dev)
+- **LinkedIn:** [Diego Campuzano](https://www.linkedin.com/in/diegocampuzano/)
+- **Frontend Mentor:** [@hermani456](https://www.frontendmentor.io/profile/hermani456)
+- **iCodeThis:** [@hermani](https://icodethis.com/hermani)
