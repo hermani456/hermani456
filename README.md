@@ -22,7 +22,7 @@ I specialize in creating intuitive, user-friendly interfaces and developing reli
 ## Let's Connect
 I am always open to discussing new opportunities, collaborating on full-stack projects, or just talking tech. 
 
-- **Portfolio:** [diegocampuzano.dev](https://www.diegocampuzano.dev)
+- **Portfolio:** [diegocampuzano.cl](https://www.diegocampuzano.cl)
 - **LinkedIn:** [Diego Campuzano](https://www.linkedin.com/in/diegocampuzano/)
 - **Frontend Mentor:** [@hermani456](https://www.frontendmentor.io/profile/hermani456)
 - **iCodeThis:** [@hermani](https://icodethis.com/hermani)
